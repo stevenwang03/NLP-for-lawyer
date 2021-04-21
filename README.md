@@ -1,4 +1,4 @@
-# NLP-for-lawyer
+# NLP-for-Lawyers
 A judgement is the final decision of a Court about a litigation between a plaintiff and a
 defendant. This section is usually composed by many different sentences. Few of these
 sentences are irrelevant because they simply are support of the judge’s ruling (eg. “ Par ces
